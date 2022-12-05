@@ -1,11 +1,16 @@
 # Trilha JS Developer - Pokedex
+# dio-js-developer-pokedex
 
 Projeto didático de construção de uma Pokedex com Javascript
 
-#Layout
-![Image](https://dribbble.com/shots/6540871-Pokedex-App/attachments/6540871-Pokedex-App?mode=media "pokedex")
+# Layout
+![Image](https://user-images.githubusercontent.com/2284408/197915630-d514391b-3b48-47ee-a52b-b10f9b0dc7df.png "pokedex")
 
 https://dribbble.com/shots/6540871-Pokedex-App
 
-#PokeAPI
+# PokeAPI
 https://pokeapi.co/
+
+
+
+
