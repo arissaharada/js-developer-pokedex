@@ -15,6 +15,13 @@ body {
 h1{
     font-size: 3rem;
     color: #D23369;
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+}
+
+h6{
+    font-size: 0.6rem;
+    color: #D23369;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
