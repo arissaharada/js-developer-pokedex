@@ -1,3 +1,26 @@
+/*.logo-img{
+    margin: 1rem;
+    height: 65px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    
+}*/
+
+.image-center{
+    display: flex;
+    justify-content: center;
+}
+
+.pikachu-cute{
+    margin: 5rem 0 0 0 ;
+    height: 20rem;
+    width: auto;
+}
+.all-cute{
+    width: 120%;
+}
+
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
@@ -141,10 +164,13 @@
     margin: .25rem 0;
     font-size: .625rem;
     color: #fff;
-    background-color: #6c79db;
+    background-color: #D23369;
     border: none;
     border-radius: 1rem;
 }
+
+
+
 
 @media screen and (min-width: 380px) {
     .pokemons {
