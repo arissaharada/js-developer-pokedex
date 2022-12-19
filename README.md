@@ -1,6 +1,5 @@
 # JavaScript Developer - Pokedex
 
-Projeto didático de construção de uma Pokedex com Javascript
 This is a project learned and developted the BootCamp Orange Tech + at DIO's platform, using HTML, CSS and JavaScript.
 Also it was used some HTTPS protocols and API.
 
