@@ -8,10 +8,10 @@ The layout above was the base for the project with the PokeApi.
 # Layout
 ![Image](https://user-images.githubusercontent.com/2284408/197915630-d514391b-3b48-47ee-a52b-b10f9b0dc7df.png "pokedex")
 
-https://dribbble.com/shots/6540871-Pokedex-App
+* https://dribbble.com/shots/6540871-Pokedex-App
 
 # PokeAPI
-https://pokeapi.co/
+* https://pokeapi.co/
 
 
 
